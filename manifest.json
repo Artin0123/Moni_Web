@@ -1,0 +1,21 @@
+{
+    "name": "Moni 城旅",
+    "short_name": "Moni 城旅",
+    "description": "不踏出國門，零距離探索世界文化風貌",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "assets/logo.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "assets/logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ]
+}
